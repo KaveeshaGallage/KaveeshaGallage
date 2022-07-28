@@ -2,6 +2,4 @@
 
 - 👀 I’m interested in both web and mobile application development
 - 🌱 I’m currently learning React & Spring Boot
-- ⚡ Love poetry and teaching...
-
 
